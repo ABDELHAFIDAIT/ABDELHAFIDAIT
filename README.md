@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/ABDELHAFIDAIT/ABDELHAFIDAIT/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
